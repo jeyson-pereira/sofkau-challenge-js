@@ -16,6 +16,12 @@ Abra una ventana de terminal dentro del directorio, luego ejecute el comando:
 npm install
 npm start
 ```
+
+Las preguntas son tomadas de el archivo `./src/data/questions.json`
+
+
+Y el archivo `/src/data/scores.json` contiene los puntajes guardados.
+
 ----------
 
 En la opcion de reglas se muestra una breve descripción del juego:
