@@ -1,0 +1,203 @@
+{
+  "data": {
+    "categories": [
+      "Entretenimiento",
+      "Geografía",
+      "Historia",
+      "Ciencia",
+      "Deportes"
+    ],
+    "questions": [
+      [
+        {
+          "question": "¿Cúal es la dirección con la que Dori estaba buscando a Nemo?",
+          "choices": [
+            "J Wallaby 36 Sydney",
+            "Bajo Californio",
+            "P Sherman 42 Wallaby Way Sidney",
+            "La CA2"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "¿Qué película inició el Universo Cinematográfico de Marvel?",
+          "choices": ["Iron Man", "The Hulk", "The Avengers", "Spiderman"],
+          "answer": 0
+        },
+        {
+          "question": "¿Cual es la pelicula mas taquillera?",
+          "choices": [
+            "Avengers Endgame",
+            "Titanic",
+            "Avatar",
+            "Harry Potter y las Reliquias de la Muerte - Parte 2"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "¿Qué inspiró los nombres de las Tortugas Ninja?",
+          "choices": [
+            "Jugadores de Fútbol",
+            "Pintores Renacentistas",
+            "Presidentes de Estados Unidos",
+            "Dioses griegos"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "¿Cuál fue la primer película animada de Disney?",
+          "choices": [
+            "Blanca Nieves y los 7 enanitos",
+            "Pinocho",
+            "Fantasía",
+            "La Bella durmiente"
+          ],
+          "answer": 0
+        }
+      ],
+      [
+        {
+          "question": "¿Cuántos océanos hay en la tierra?",
+          "choices": ["5", "6", "7", "4"],
+          "answer": 0
+        },
+        {
+          "question": "¿Cuál es el río más largo del mundo?",
+          "choices": ["El Nilo", "El Amazonas", "El Danubio", "El Rin"],
+          "answer": 1
+        },
+        {
+          "question": "¿Qué paises disputan la soberanía sobre Gibraltar?",
+          "choices": [
+            "España y Marruecos",
+            "Portugal y Marruecos",
+            "España y Gran Bretaña",
+            "Italia y Túnez"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "¿Qué ciudad se ubica en dos continentes?",
+          "choices": ["Estambul", "Ciudad de Panamá", "Moscú", "Asjabad"],
+          "answer": 0
+        },
+        {
+          "question": "¿Cuál es la capital más al norte del mundo?",
+          "choices": ["Nuuk", "Oslo", "Estocolmo", "Raikiavik"],
+          "answer": 3
+        }
+      ],
+      [
+        {
+          "question": "¿En qué año se firmó la declaración de la independencia de Colombia?",
+          "choices": ["1810", "1819", "1814", "1805"],
+          "answer": 0
+        },
+        {
+          "question": "¿Cuál de los siguentes paises no integró a los Aliados durente la Segunda Guerra Mundial?",
+          "choices": ["Estados Unidos", "Japón", "Francia", "Gran Bretaña"],
+          "answer": 1
+        },
+        {
+          "question": "¿Qué desencadenó el inicio de la Primera Guerra Mundial?",
+          "choices": [
+            "La llegada al poder de Hitler",
+            "El bombardeo a Pearl Harbor",
+            "La Muerte de Franz Ferdinand",
+            "El desarrollo de la bomba atómica"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "¿Cómo se llamaba el legendario caballo de Alejandro Magno?",
+          "choices": ["Bucéfalo", "Babieca", "Marengo", "Rocinante"],
+          "answer": 0
+        },
+        {
+          "question": "¿Cuál es la ciudad más antigua de Colombia?",
+          "choices": ["Santa Marta", "Cartagena", "Bogotá", "Tunja"],
+          "answer": 0
+        }
+      ],
+      [
+        {
+          "question": "¿Qué es el COVID?",
+          "choices": [
+            "Un Virus",
+            "Una Bacteria",
+            "Un Protozoo",
+            "Una Pandemia"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "¿Qué le da el color verde a las hojas de las plantas?",
+          "choices": [
+            "Los Pistilos",
+            "La Clorofila",
+            "Los Estomas",
+            "La Salvia"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "¿Cuál de estos no es un huesesillo del oido?",
+          "choices": ["Martillo", "Yunque", "Estribo", "Semilunar"],
+          "answer": 3
+        },
+        {
+          "question": "¿A quén se atribuyen los principales aportes al desarollo de la bomba atómica?",
+          "choices": [
+            "Albert Einstein",
+            "Erwin Schrödinger",
+            "Robbert Oppenhaimer",
+            "Nikola Tesla"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "¿Cuál de las siguientes letras no identifica ningún elemento en la tabla periódica?",
+          "choices": ["J", "K", "Z", "W"],
+          "answer": 0
+        }
+      ],
+      [
+        {
+          "question": "¿Con qué número jugaba Carlos 'El Pibe' Valderrama en la selección Colombia?",
+          "choices": ["1", "9", "11", "10"],
+          "answer": 3
+        },
+        {
+          "question": "¿Cuántos cuadros componen el tablero de ajedréz",
+          "choices": ["64", "60", "56", "58"],
+          "answer": 0
+        },
+        {
+          "question": "¿Cuál es el jugador de tenis con más títulos del torneo de Wimbledon?",
+          "choices": [
+            "Pete Sampras",
+            "Roger Federer",
+            "Novak Djokovic",
+            "John McEnroe"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "¿Cuál fue el primer campeón de la Copa Mundial de Fútbol?",
+          "choices": ["Uruguay", "Argentina", "Brasil", "Inglaterra"],
+          "answer": 0
+        },
+        {
+          "question": "¿Quién fue el único campeon de boxeo de pesos pesados que nunca fue derrotado?",
+          "choices": [
+            "Mike Tyson",
+            "Muhammad Ali",
+            "Rocky Marciano",
+            "Tyson Fury"
+          ],
+          "answer": 2
+        }
+      ]
+    ]
+  }
+}
