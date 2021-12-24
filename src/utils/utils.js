@@ -103,6 +103,7 @@ const saveData = (currentPlayer) => {
   js.jsonSaver(playersScores);
   console.log("Guardando tu puntaje...");
   sleep(1500);
+  scoresHistory();
 };
 
 const scoresHistory = () => {
