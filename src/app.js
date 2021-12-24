@@ -30,5 +30,4 @@ do {
     default:
       console.log("Seleccione una opción valida...");
   }
-  sleep(1500);
 } while (opc !== "4");
